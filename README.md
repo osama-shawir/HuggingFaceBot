@@ -36,10 +36,10 @@ The app presents a simple interface where you can ask "Middie", a sarcastic chat
 
 #### Context Prompt
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 ## Deployment
 
 This app can be deployed using any service that supports Python web apps, such as Heroku or Streamlit Sharing. The deployment process will depend on the specific service you choose. In this case, we are using Streamlit.
 
-![alt text](image-1.png)
+![alt text](image.png)
